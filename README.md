@@ -32,8 +32,6 @@ These dashboards help stakeholders:
 🖼 **Dashboard Preview:**
 ![Dashboard Screenshot](images/dashboard-preview.png)
 
-🌐 **Live Dashboard:** [View Power BI Dashboard](YOUR_PUBLIC_LINK)
-
 ## 🛠 Tools & Technologies
 - **Python**: Data cleaning & preprocessing (Pandas, NumPy)
 - **Power BI**: Data modeling, visualization, and reporting
